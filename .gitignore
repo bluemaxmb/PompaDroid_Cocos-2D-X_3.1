@@ -1,0 +1,10 @@
+
+*.xcscheme
+
+PompaDroid/cocos2d/build/cocos2d_libs.xcodeproj/xcuserdata/mbarney.xcuserdatad/xcschemes/xcschememanagement.plist
+
+PompaDroid/proj.ios_mac/PompaDroid.xcodeproj/project.xcworkspace/xcuserdata/mbarney.xcuserdatad/UserInterfaceState.xcuserstate
+
+PompaDroid/proj.ios_mac/PompaDroid.xcodeproj/project.xcworkspace/xcuserdata/mbarney.xcuserdatad/WorkspaceSettings.xcsettings
+
+PompaDroid/proj.ios_mac/PompaDroid.xcodeproj/xcuserdata/mbarney.xcuserdatad/xcschemes/xcschememanagement.plist
